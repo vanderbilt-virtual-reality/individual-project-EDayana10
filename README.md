@@ -10,5 +10,5 @@ is dedicated to dead loved ones during Dia de Muertos. This is a celebration tha
 
   One of the dificulties of VR, at least with the availible assets is who the ofrenda is dedicated to and the inability to celebrate the 3 days wtih each users friends and family. In modern times, Dia de los Muertos is a tradition that is largely centered around the idea of family, so the inability to recreate that for every user takes away from the full experience that they would have if they were to actually participate. 
  
-# Link to Video 
-
+# Link to Video and 100 MB+ files
+https://drive.google.com/file/d/1W9H5AKJ5hMPgol8SD_lL7FyT49b6GTZk/view?usp=sharing
