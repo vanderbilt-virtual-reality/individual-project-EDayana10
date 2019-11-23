@@ -45,7 +45,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-
+*La_Muerte_V2_Data\sharedassets0.assets.resS
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
